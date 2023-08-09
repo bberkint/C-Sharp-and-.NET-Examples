@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace EntityLayer.Concrete
 {
-    internal class Category
+    public class Category
     {
+        public int CategoryId { get; set; }
+        public string CategoryName { get; set; }
+        public string CategoryDescription { get; set; }
+        public bool CategoryStatus { get; set; }
     }
 }
