@@ -1155,6 +1155,16 @@
             "rid": "win"
           }
         }
+      },
+      "EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -3500,10 +3510,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../EntityLayer/EntityLayer.csproj",
+      "msbuildProject": "../EntityLayer/EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EntityLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
@@ -3536,7 +3552,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\staj2\\kodlar\\C-Sharp-and-.NET-Examples\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "D:\\staj2\\kodlar\\C-Sharp-and-.NET-Examples\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
