@@ -1,0 +1,17 @@
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

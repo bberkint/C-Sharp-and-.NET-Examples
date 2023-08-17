@@ -14,6 +14,14 @@ namespace DataAccessLayer.Concrete
             optionsBuilder.UseSqlServer("server = BERKINPC\\SQLEXPRESS;database = CoreBlogDb: integrated security = true;");
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Context>().HasNoKey();
+            // Diğer varlık tanımlamaları veya yapılandırmaları
+        }
+
+
+
         public DbSet<About> AboutS { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Category> Categories { get; set; } 

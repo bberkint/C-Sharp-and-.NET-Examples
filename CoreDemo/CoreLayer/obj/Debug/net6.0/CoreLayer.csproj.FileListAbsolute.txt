@@ -1,0 +1,12 @@
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll

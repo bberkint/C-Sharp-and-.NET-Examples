@@ -1,0 +1,17 @@
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\staj2\kodlar\C-Sharp-and-.NET-Examples\CoreDemo\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
